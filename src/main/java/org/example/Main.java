@@ -1,7 +1,7 @@
 package org.example;
 
 public class Main {
-    int a;
+    //int a;
     static void test1(){
         System.out.println("This is test");
     }
@@ -11,7 +11,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Hello world!");
-        test();
+        test1();
         test();
     }
 
