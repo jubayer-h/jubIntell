@@ -11,6 +11,8 @@ public class test {
         test t=new test();
         t.test1();//run this program
         System.out.println("how is doing");
+
+        System.out.println("hello how are ");
     }
 
 }
