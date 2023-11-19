@@ -17,6 +17,7 @@ public class mobile {
         else{
             System.out.println("i can tell ");
         }
+        System.out.println("thank you for helping");
 
     }
 }
