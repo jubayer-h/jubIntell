@@ -11,6 +11,9 @@ public class mobile {
         if (a.equals(10)){
             System.out.println("passed");
         }
+        else {
+            System.out.println("Test is not passed");
+        }
 
     }
 }
